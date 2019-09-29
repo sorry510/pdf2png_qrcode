@@ -1,0 +1,12 @@
+{
+    "name": "sorry510/pdf2png_qrcode",
+    "authors": [
+        {
+            "name": "sorry510",
+            "email": "sorry510sf@gmail.com"
+        }
+    ],
+    "require": {
+    	"dsiddharth2/php-zxing": "1.0.3"
+    }
+}
