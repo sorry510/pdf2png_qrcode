@@ -6,6 +6,7 @@
             "email": "sorry510sf@gmail.com"
         }
     ],
+    "license": "MIT",
     "require": {
     	"dsiddharth2/php-zxing": "1.0.3"
     }
